@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_000.wav",
+        "reference_text": "कुछ अणुओं में अस्थिर केंद्रक होता है, जिसका मतलब यह है कि उनमें थोड़े या बिना किसी झटके से टूटने की प्रवृत्ति होती है,"
+    },
+    {
+        "id": 1,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_001.wav",
+        "reference_text": "ग्रीनलैंड को बहुत कम जगह बसाया गया था. नॉर्स सगास में वे कहते हैं कि एरिक रेड हत्या के लिए आइसलैंड से निर्वासित किया गया था, और आगे पश्चिम की यात्रा करते समय, ग्रीनलैंड मिला जिसे ग्रीनलैंड नाम दिया गया."
+    },
+    {
+        "id": 2,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_002.wav",
+        "reference_text": "ऐसी कोई वैश्विक परिभाषा नहीं है जिसके लिए निर्मित सामान एंटीक होते हैं. कुछ कर एजेंसियाँ 100 साल से पुराने सामान को एंटीक के तौर पर परिभाषित करती हैं."
+    },
+    {
+        "id": 3,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_003.wav",
+        "reference_text": "टेलीविजन रिपोर्टों में प्लांट से निकलने वाला सफेद धुआँ दिखाया गया है।"
+    },
+    {
+        "id": 4,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_004.wav",
+        "reference_text": "इंटरनेट पर यह खोज 'शत्रुतापूर्ण पर्यावरण पाठ्यक्रम' के लिए अक्सर आपको एक स्थानीय कंपनी का पता प्रदान करेगी।"
+    },
+    {
+        "id": 5,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_005.wav",
+        "reference_text": "अपनी सरकार के अलावा आप अन्य देशों की सरकारों की सलाह ले सकते हैं. हालाँकि, उनकी सलाह उनके नागरिकों को ध्यान में रखकर दी जाती हैं."
+    },
+    {
+        "id": 6,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_006.wav",
+        "reference_text": "प्राचीनकाल से ही लोग सोने, चाँदी, और तांबे जैसे रासायनिक तत्वों के बारे में ही जानकारी रखते हैं, क्योंकि इन्हें प्रकृति में मूल स्वरूप में ढूँढा जा सकता है और इन्हें प्राथमिक उपकरणों के ज़रिए ढूँढना अपेक्षाकृत आसान है."
+    },
+    {
+        "id": 7,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_007.wav",
+        "reference_text": "इसे केमिकल का pH कहा जाता है. आप लाल गोभी के जूस का इस्तेमाल करके एक संकेतक बना सकते हैं."
+    },
+    {
+        "id": 8,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_008.wav",
+        "reference_text": "सबसे नज़दीकी सिरे पर क्रस्ट की मोटाई करीब 70 किलोमीटर है और सबसे दूर के सिरे पर यह 100 किलोमीटर है."
+    },
+    {
+        "id": 9,
+        "audio_path": "/mnt/data/multilingual-audio-models/data/fleurs_hi_test/sample_009.wav",
+        "reference_text": "यह संबंधित है, लेकिन आम तौर पर इसमें अल्पाइन शैली की स्की टूरिंग या माउंटेनीयरिंग शामिल नहीं होती है, जिसे खड़े इलाकों में किया जाता है और जिसके लिए बहुत कड़ी स्की और बूट की ज़रूरत होती है."
+    }
+]
